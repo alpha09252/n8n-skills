@@ -1,7 +1,6 @@
 # n8n Skills
 
 [English](README.md)
-
 > Supported n8n version: v2.2.6
 Main: 
 n8n Skills is an automation skill pack that enables AI assistants to directly understand and operate n8n workflows, covering comprehensive information on 545 nodes and 20 curated templates. Through n8n Skills, AI assistants can help you quickly design workflows and explore node functionalities, making workflow automation more intuitive, intelligent, and saving significant development time.
